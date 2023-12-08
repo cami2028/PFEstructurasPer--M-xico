@@ -1,0 +1,45 @@
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe.config
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.pdb
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.AssemblyReference.cache
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.SuggestedBindingRedirects.cache
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Cliente.resources
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Properties.Resources.resources
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.GenerateResource.cache
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.CoreCompileInputs.cache
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.exe
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.pdb
+C:\Users\carra\Desktop\FINAL ESTRUCTURA PERU - MEXICO\ProyectoFinalEstructurasPerú-México\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.CajaPedido.resources
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.CajaPedido.resources
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Cliente.resources
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Properties.Resources.resources
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.exe
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.pdb
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe.config
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe
+C:\Users\User\Desktop\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.pdb
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe.config
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.pdb
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.AssemblyReference.cache
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.SuggestedBindingRedirects.cache
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Properties.Resources.resources
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.GenerateResource.cache
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.CoreCompileInputs.cache
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.exe
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.pdb
+C:\Users\carra\Videos\FINAL ESTRUCTURAS\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Sistema.resources
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe.config
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.exe
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\bin\Debug\ProyectoFinalEstructurasPerú-México.pdb
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Sistema.resources
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú_México.Properties.Resources.resources
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.exe
+D:\UNIVERSIDAD\5TO CICLO\ESTRUCTURA DE DATOS\FINAL\ACTUALIZADO\ProyectoFinalEstructurasPerú-México1\ProyectoFinalEstructurasPerú-México\obj\Debug\ProyectoFinalEstructurasPerú-México.pdb
